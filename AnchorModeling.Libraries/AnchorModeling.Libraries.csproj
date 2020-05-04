@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.9.5</Version>
+    <Authors>Askar Gabdiev</Authors>
+    <Company>Askar Gabdiev</Company>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Copyright>Askar Gabdiev</Copyright>
+    <PackageProjectUrl>https://github.com/AscarGb/AnchorModelFramework</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AscarGb/AnchorModelFramework</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFrameworkCore.Attributes" Version="1.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />   
+  </ItemGroup>
+
+</Project>
