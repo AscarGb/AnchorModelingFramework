@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAnchorModel", "TestAnchorModel\TestAnchorModel.csproj", "{C7F85371-9456-4663-9A43-04138F8E5F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAnchorModel.Models", "TestAnchorModel.Models\TestAnchorModel.Models.csproj", "{377BEBFC-D3D9-43F1-8465-FCF634EB9766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F85371-9456-4663-9A43-04138F8E5F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F85371-9456-4663-9A43-04138F8E5F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F85371-9456-4663-9A43-04138F8E5F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F85371-9456-4663-9A43-04138F8E5F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377BEBFC-D3D9-43F1-8465-FCF634EB9766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377BEBFC-D3D9-43F1-8465-FCF634EB9766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377BEBFC-D3D9-43F1-8465-FCF634EB9766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377BEBFC-D3D9-43F1-8465-FCF634EB9766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3637CFC-2F00-43D2-B055-673C92EB7150}
+	EndGlobalSection
+EndGlobal
