@@ -13,7 +13,7 @@ namespace AnchorModelingExample.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                string connectionString = "Server=ASUS;Database=TestDb;Integrated Security=true";
+                string connectionString = "Server=.;Database=TestDb;Integrated Security=true";
                 optionsBuilder.UseSqlServer(connectionString);
             }
         }
